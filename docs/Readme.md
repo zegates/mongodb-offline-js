@@ -3,6 +3,7 @@ And it will be a sync layer for the data
 
 ## Architecture
 
+```
 Frontend              SyncLayer                 MongoDB
 -------               ---------                 -------
    |                      |                        |
@@ -11,5 +12,5 @@ Frontend              SyncLayer                 MongoDB
   ----------------------->
                            <---------------------->
 
-
+```
 
